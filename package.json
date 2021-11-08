@@ -1,0 +1,22 @@
+{
+  "name": "microwebsockets-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndneighbor/microwebsockets-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndneighbor/microwebsockets-sample/issues"
+  },
+  "homepage": "https://github.com/ndneighbor/microwebsockets-sample#readme",
+  "dependencies": {
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v20.3.0"
+  }
+}
